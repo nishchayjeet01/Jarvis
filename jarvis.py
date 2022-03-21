@@ -70,7 +70,7 @@ while 1:
             webbrowser.open(cmd)
         elif 'who created you' in cmd or 'who made you' in cmd:
             speak('I have been created by Nishchay Jeet Singh')
-        elif 'who is palak' in cmd or 'malhar' in cmd or 'bhola' in cmd:
+        elif 'who is palak' in cmd or 'pc' in cmd or 'pecee' in cmd:
             speak('she is your best friend since you were kids, sir')
         elif 'stop' in cmd or 'exit' in cmd:
             speak('Good Bye sir')
