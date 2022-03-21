@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 29 10:35:56 2021
-@author: Nitro 7
-"""
+
 
 import speech_recognition as sr
 import pyttsx3
